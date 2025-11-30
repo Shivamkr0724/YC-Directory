@@ -1,16 +1,6 @@
 <h3 align="center">Startup Directory Platform</h3>
 
-
-
-
-
-## <a name="introduction">🤖 Introduction</a>
-
-A Next.js 15 platform where entrepreneurs can submit their startup ideas for virtual pitch competitions, browse other
-pitches, and gain exposure through a clean minimalistic design for a smooth user experience.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
+YC Directory is a modern, minimalistic, and lightning-fast platform where users can explore, submit, and share startup ideas. Built with the latest React 19, Next.js 15, and Sanity, it delivers a smooth, dynamic, and scalable experience with a focus on clean UI and efficient content management.
 
 
 
